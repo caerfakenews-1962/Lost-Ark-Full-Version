@@ -242,4 +242,4 @@ This repository serves as the official landing page for Lost Ark. The software i
 **Get the most recent version of Lost Ark today!**
 
 ---
-**Last updated:** 2026-10-17 23:40:43 UTC
+**Last updated:** 2026-10-18 02:25:08 UTC
